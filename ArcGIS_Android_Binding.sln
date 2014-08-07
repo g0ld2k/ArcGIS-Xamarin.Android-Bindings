@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcGIS_Android_Binding", "ArcGIS_Android_Binding\ArcGIS_Android_Binding.csproj", "{05B99420-40D7-426E-9DC4-FDDB28D861B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingTest", "BindingTest\BindingTest.csproj", "{4B124F4B-391B-423A-AB1D-1AA5C6FECBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05B99420-40D7-426E-9DC4-FDDB28D861B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B99420-40D7-426E-9DC4-FDDB28D861B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B99420-40D7-426E-9DC4-FDDB28D861B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B99420-40D7-426E-9DC4-FDDB28D861B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B124F4B-391B-423A-AB1D-1AA5C6FECBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B124F4B-391B-423A-AB1D-1AA5C6FECBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B124F4B-391B-423A-AB1D-1AA5C6FECBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B124F4B-391B-423A-AB1D-1AA5C6FECBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BindingTest\BindingTest.csproj
+	EndGlobalSection
+EndGlobal
