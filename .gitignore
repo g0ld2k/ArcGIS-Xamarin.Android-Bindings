@@ -66,3 +66,5 @@ packages/
 
 #Test files
 *.testsettings
+
+ArcGIS_Android_Binding/Jars/*.jar
