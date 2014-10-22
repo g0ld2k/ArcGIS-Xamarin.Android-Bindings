@@ -7,4 +7,4 @@ This project is not complete.  It is an exmaple of a partial working version of 
 * jackson-core-lgpl-1.9.5.jar
 * jackson-mapper-lgpl-1.9.5.jar
 
-This is based on 10.2.3 of the ArcGIS SDK.
+This is based on version 10.2.3 of the ArcGIS SDK.
